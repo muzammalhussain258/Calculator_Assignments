@@ -3,7 +3,7 @@
 
 ---
 
-Welcome! This repository showcases my hands-on Python learning journey — progressing from simple arithmetic logic to advanced calculator features — as part of the “Advanced Generative and Agentic AI with Freelancing and Entrepreneurship Focus” course at Tecrix Innovation Hub.
+Welcome! This repository showcases my hands-on Python learning journey — progressing from simple arithmetic logic to advanced calculator features — as part of the “Advanced Generative and Agentic AI with Freelancing and Entrepreneurship Focus” course at [Tecrix Innovation Hub](https://tecrix.com/).
 
 ---
 
@@ -36,21 +36,21 @@ Calculator_Assignments/
 | Assignment                | Description                                    | Folder Link                                                          |
 |---------------------------|------------------------------------------------|---------------------------------------------------------------------|
 | Simple Calculator         | Basic 2-number calculator (add, sub, mul, div) | [assignment1_simple_calculator](calculator-assignments-muzammal/assignment1_simple_calculator/)     |
-| Intermediate Calculator   | Menu-driven, multi-operation calculator        | [assignment2_intermediate_calculator](assignment2_intermediate_calculator/) |
-| Advanced Calculator       | Features: history, validation, more operations | [assignment3_advanced_calculator](assignment3_advanced_calculator/) |
+| Intermediate Calculator   | Menu-driven, multi-operation calculator        | [assignment2_intermediate_calculator](calculator-assignments-muzammal/assignment2_intermediate_calculator/) |
+| Advanced Calculator       | Features: history, validation, more operations | [assignment3_advanced_calculator](calculator-assignments-muzammal/assignment3_advanced_calculator/) |
 
 ---
 
 ## 🖼️ Demo Screenshots
 
 ### Assignment 1
-![Assignment 1 Demo](assignment1_simple_calculator/assets/assignment1_ss1.png)
+![Assignment 1 Demo](calculator-assignments-muzammal/assignment1_simple_calculator/assets/image.png)
 
 ### Assignment 2
-![Assignment 2 Demo](assignment2_intermediate_calculator/assets/assignment2_ss1.png)
+![Assignment 2 Demo](calculator-assignments-muzammal/assignment2_intermediate_calculator/assets/image1.png)
 
 ### Assignment 3
-![Assignment 3 Demo](assignment3_advanced_calculator/assets/assignment3_ss1.png)
+![Assignment 3 Demo](calculator-assignments-muzammal/assignment3_advanced_calculator/assets/image3.png)
 
 ---
 
