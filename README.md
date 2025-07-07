@@ -1,70 +1,90 @@
-# 🧮 Simple Calculator (Python, Jupyter Notebook)
-
-A beginner-friendly calculator project built in Python as part of my foundational AI journey.  
-This project demonstrates core Python programming skills using Jupyter Notebook.
+# 🧮 Calculator Assignments  
+#### Beginner Python Projects by Muzammal Hussain
 
 ---
 
-## 📸 Project Preview
-
-![Simple Calculator Screenshot](assets/image.png)
+Welcome! This repository showcases my hands-on Python learning journey — progressing from simple arithmetic logic to advanced calculator features — as part of the “Advanced Generative and Agentic AI with Freelancing and Entrepreneurship Focus” course at Tecrix Innovation Hub.
 
 ---
 
-## 🚀 Features
-
-- Addition, subtraction, multiplication, and division operations
-- Clean, well-commented, and beginner-friendly Python code
-- Uses variables and stepwise logic for clarity
-- Output displayed using `print()` statements in Jupyter Notebook
-- Industry-standard code formatting
-
----
-
-## 🏗️ How to Run
-
-1. Clone this repository or download the `Simple_Calculator.ipynb` file.
-2. Open the notebook in [VS Code](https://code.visualstudio.com/), [Jupyter Notebook](https://jupyter.org/), or [Google Colab](https://colab.research.google.com/).
-3. Run all cells to see the calculations and outputs.
-
----
-
-## 📑 Example Output
+## 📂 Repository Structure
 
 ```
-Addition: 30
-Subtraction: 10
-Division: 2.0
-Multiplication: 200
+Calculator_Assignments/
+├── assignment1_simple_calculator/
+│   ├── simple_calculator.ipynb
+│   ├── README.md
+│   └── assets/
+│       └── assignment1_ss1.png
+├── assignment2_intermediate_calculator/
+│   ├── intermediate_calculator.ipynb
+│   ├── README.md
+│   └── assets/
+│       └── assignment2_ss1.png
+├── assignment3_advanced_calculator/
+│   ├── advanced_calculator.ipynb
+│   ├── README.md
+│   └── assets/
+│       └── assignment3_ss1.png
+└── README.md
 ```
 
 ---
 
-## 🎯 Learning Outcomes
+## 🚀 Assignments Overview
 
-- Mastered the basics of Python syntax, variables, and arithmetic operations
-- Practiced code explanation and documentation for others
-- Learned how to structure, upload, and share a project on GitHub
-
----
-
-## 🧠 Why This Project?
-
-This calculator is my first hands-on Python project as part of my 6-month practical AI and freelancing course at Tecrix Innovation Hub.  
-It reflects my commitment to:
-- Building a solid programming foundation
-- Learning by doing
-- Preparing for real-world AI applications and freelance opportunities
+| Assignment                | Description                                    | Folder Link                                                          |
+|---------------------------|------------------------------------------------|---------------------------------------------------------------------|
+| Simple Calculator         | Basic 2-number calculator (add, sub, mul, div) | [assignment1_simple_calculator](assignment1_simple_calculator/)     |
+| Intermediate Calculator   | Menu-driven, multi-operation calculator        | [assignment2_intermediate_calculator](assignment2_intermediate_calculator/) |
+| Advanced Calculator       | Features: history, validation, more operations | [assignment3_advanced_calculator](assignment3_advanced_calculator/) |
 
 ---
 
-## 📚 More Resources
+## 🖼️ Demo Screenshots
 
-- [Python Official Tutorial](https://docs.python.org/3/tutorial/)
-- [My GitHub Profile](https://github.com/muzammalhussain258)
-- [My AI Journey](https://github.com/muzammalhussain258/muzammalhussain258)
+### Assignment 1
+![Assignment 1 Demo](assignment1_simple_calculator/assets/assignment1_ss1.png)
+
+### Assignment 2
+![Assignment 2 Demo](assignment2_intermediate_calculator/assets/assignment2_ss1.png)
+
+### Assignment 3
+![Assignment 3 Demo](assignment3_advanced_calculator/assets/assignment3_ss1.png)
 
 ---
 
-**Built with ❤️ by Muzammal Hussain**  
-*DAE Student | Generative AI Learner | Tecrix Innovation Hub | Pakistan*
+## 🧑‍💻 How to Run
+
+1. Clone this repository or download the ZIP.
+2. Open any assignment’s `.ipynb` file in Jupyter Notebook or Google Colab.
+3. Run the notebook, follow prompts, and explore the calculator features!
+
+---
+
+## 🛠️ Tech & Learning Stack
+
+- **Language:** Python (main focus)
+- **Libraries:** NumPy, pandas, scikit-learn, matplotlib (in further projects)
+- **App Dev:** Streamlit (for AI/ML UI in future assignments)
+- **Tools:** Jupyter Notebook, Git, GitHub
+- **Foundations:** Python syntax, data types, control flow, OOP, functions, file/exception handling
+
+---
+
+## 👤 About Me
+
+Hi, I’m **Muzammal Hussain** — a DAE student from Pakistan, passionate about AI and building impactful tech.  
+Currently, I’m completing my Python fundamentals and moving towards real-world AI projects as part of Tecrix Innovation Hub’s flagship course.
+
+- **Learning Focus:** Python, Generative AI & Agentic Ai, freelancing & entrepreneurship
+- **Goal:** Become a world-class AI engineer and help my community through technology
+
+---
+
+## 🤝 Feedback & Collaboration
+
+Your suggestions and feedback are welcome!  
+Let’s connect and grow together.
+
+---
