@@ -35,7 +35,7 @@ Calculator_Assignments/
 
 | Assignment                | Description                                    | Folder Link                                                          |
 |---------------------------|------------------------------------------------|---------------------------------------------------------------------|
-| Simple Calculator         | Basic 2-number calculator (add, sub, mul, div) | [assignment1_simple_calculator](assignment1_simple_calculator/)     |
+| Simple Calculator         | Basic 2-number calculator (add, sub, mul, div) | [assignment1_simple_calculator](calculator-assignments-muzammal/assignment1_simple_calculator/)     |
 | Intermediate Calculator   | Menu-driven, multi-operation calculator        | [assignment2_intermediate_calculator](assignment2_intermediate_calculator/) |
 | Advanced Calculator       | Features: history, validation, more operations | [assignment3_advanced_calculator](assignment3_advanced_calculator/) |
 
