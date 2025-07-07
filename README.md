@@ -88,3 +88,19 @@ Your suggestions and feedback are welcome!
 Let’s connect and grow together.
 
 ---
+
+## 🌐 Connect With Me
+
+I’m actively building my developer journey and love connecting with like-minded learners, mentors, and collaborators.  
+Feel free to reach out through any of the platforms below:
+ 
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/muzammal-hussain-965486360/)
+- 💻 [**GitHub**](https://github.com/muzammalhussain258)  
+- 🌐 [**Portfolio Website**](https://muzammalhussain.me)
+- 📧 **Email:** muzammal.contect@gmail.com
+---
+
+> "Code with purpose. Learn with impact. Lead with heart." – *Muzammal Hussain*
+
+
+
