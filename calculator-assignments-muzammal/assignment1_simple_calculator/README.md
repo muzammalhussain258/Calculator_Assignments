@@ -38,6 +38,6 @@ Built as part of my “Advanced Generative and Agentic AI” journey at Tecrix I
 ---
 
 **Next up:**  
-Try the [Intermediate Calculator →](calculator-assignments-muzammal/assignment2_intermediate_calculator/)
+Try the [Intermediate Calculator →](../assignment2_intermediate_calculator/)
 
 ---
